@@ -8,6 +8,7 @@ public class hello{
 
 
 		System.out.println("Hello Welcome");
+		system.out.printlm("Good Start");
 
 	}
 }
